@@ -1,0 +1,30 @@
+.body h1{
+    text-align: center;
+}
+.flex_line{
+    display: flex;   
+}
+.first_line,
+.two_line,
+.tree_line{
+    width: 200px;
+    margin: 0;
+}
+.size{
+    width: 200px;
+    height: 25px;
+}
+.size_a{
+    width: 200px;
+    height: 75px;
+}
+.border{
+    border: 1px solid rgb(0, 0, 0);
+}
+.link{
+    width: 52px;
+}
+.bold{
+    color:1px bold;
+
+}
